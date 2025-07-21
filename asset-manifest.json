@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creamycum/static/css/main.308113da.css",
+    "main.js": "/creamycum/static/js/main.67d69b94.js",
+    "static/js/453.a42a5dcb.chunk.js": "/creamycum/static/js/453.a42a5dcb.chunk.js",
+    "index.html": "/creamycum/index.html",
+    "main.308113da.css.map": "/creamycum/static/css/main.308113da.css.map",
+    "main.67d69b94.js.map": "/creamycum/static/js/main.67d69b94.js.map",
+    "453.a42a5dcb.chunk.js.map": "/creamycum/static/js/453.a42a5dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308113da.css",
+    "static/js/main.67d69b94.js"
+  ]
+}
